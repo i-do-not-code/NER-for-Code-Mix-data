@@ -68,10 +68,3 @@ The classical entity types that we will be using:
 Person
 Location
 Organization
-
-# Classification Model
-The original model that we have taken reference as such doesn’t use any classification model.
-In our model, we will mainly be using the SVM classifier for the classification task. We are also using Decision Trees, but the accuracy is better with the SVM classifier.
-
-# To Do Next
-In the second phase of our project, we will be implementing the Neural Network models. We will mainly be using the RNN models with LSTM cells for the final predictions.
